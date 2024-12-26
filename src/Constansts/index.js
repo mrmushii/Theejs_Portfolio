@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'A robust full-stack e-commerce website built using Django, offering seamless shopping experiences. The site includes user authentication (login and registration), a shopping cart with add and delete functionality, and integrated PayPal payment options for smooth transactions.',
     subdesc:
       'This e-commerce platform is designed with a user-friendly interface, allowing customers to browse products, manage their cart, and complete purchases with PayPal. The Django backend ensures secure and efficient handling of user data, cart operations, and payments. Features include user account management, real-time cart updates, and reliable payment gateway integration, making it a comprehensive online shopping solution.',
-    href: '',
+    href: 'https://github.com/mrmushii/Django-Ecommerce_website',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -136,7 +136,7 @@ export const myProjects = [
     desc: 'A visually appealing and responsive Nike landing page created using React and Tailwind CSS. This project focuses on delivering a sleek, modern, and user-friendly design, perfect for promoting Nike products or campaigns.',
     subdesc:
       'The landing page showcases Nike’s brand with a clean, dynamic layout and smooth interactions. Built with React for optimal performance and Tailwind CSS for utility-first styling, this page is fully responsive across devices. Key features include stunning visuals, product highlights, and call-to-action buttons to drive conversions.',
-    href: '',
+    href: 'https://github.com/mrmushii/Nike-website',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.svg',
     logoStyle: {
@@ -175,7 +175,7 @@ export const myProjects = [
     desc: 'An innovative E-Shikkha website designed to deliver online education through a responsive and interactive platform. Built with React for dynamic content management and Tailwind CSS for a sleek and modern user interface, this platform provides an excellent learning experience.',
     subdesc:
       'The E-Shikkha website allows students and educators to interact in a virtual classroom environment, offering features such as course listings, video lectures, quizzes, and progress tracking. Using React, the site ensures fast rendering and smooth user interactions, while Tailwind CSS ensures a mobile-first, customizable design. The platform is fully responsive, making it accessible across all devices, from desktops to smartphones, making online learning both efficient and user-friendly.',
-    href: '',
+    href: 'https://github.com/mrmushii/React-E_shikkha',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
@@ -212,7 +212,7 @@ export const myProjects = [
     desc: 'A comprehensive Student Management System built using Django for the backend and Bootstrap for the frontend. This system offers an intuitive interface for managing student data, grades, attendance, and more, providing administrators with powerful tools for effective student management.',
     subdesc:
       'This system includes features such as student registration, profile management, grade tracking, attendance monitoring, and report generation. Built with Django’s robust backend functionality, the app ensures secure handling of data and easy navigation. The frontend is responsive and visually appealing, thanks to Bootstrap, which allows for a seamless user experience across all devices. It is an all-in-one solution for educational institutions to streamline student management.',
-    href: '',
+    href: 'https://github.com/mrmushii/Django-Student_management_system',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
