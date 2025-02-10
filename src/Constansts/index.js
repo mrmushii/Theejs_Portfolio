@@ -99,7 +99,7 @@ export const myProjects = [
     desc: 'A feature-rich soccer-playing robot powered by the ESP32 microcontroller, designed for agility, precision, and strategic gameplay. This innovative project combines advanced electronics, robust motors, and intelligent programming to create a bot capable of autonomous movement and soccer-playing functionality.',
     subdesc:
       'This soccer bot leverages the ESP32’s powerful processing capabilities and wireless communication features. Equipped with an LM2596 buck module for efficient power regulation and a high-performance 11.1V LiPo battery, the bot runs seamlessly with 37GB 500 RPM motors for precise movement. The steel frame ensures durability during intense matches, making it ideal for competitive robotics tournaments.',
-    href: '',
+    
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
@@ -135,10 +135,10 @@ export const myProjects = [
     title: 'Movie Finder App built with React!',
     desc: 'A visually appealing and responsive Movie Finder App created using React Tailwind CSS, Appwrite.',
     subdesc:
-      'Search through thousands of movies from the database. Access a trending movies list, dynamically updated using Appwrite based based on the most searched movies. Watch movie trailer from the app',
+      'A visually appealing and responsive Movie Finder App created using React Tailwind CSS, Appwrite.Search through thousands of movies from the database. Access a trending movies list, dynamically updated using Appwrite based based on the most searched movies. Watch movie trailer from the app',
     href: 'https://github.com/mrmushii/React-Movie_Finder',
     texture: '/textures/project/project3.mp4',
-    logo: '/assets/project-logo3.svg',
+    logo: '/assets/project-logo3.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
       background:
