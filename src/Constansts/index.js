@@ -132,11 +132,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Nike Landing Page',
-    desc: 'A visually appealing and responsive Nike landing page created using React and Tailwind CSS. This project focuses on delivering a sleek, modern, and user-friendly design, perfect for promoting Nike products or campaigns.',
+    title: 'Movie Finder App built with React!',
+    desc: 'A visually appealing and responsive Movie Finder App created using React Tailwind CSS, Appwrite.',
     subdesc:
-      'The landing page showcases Nike’s brand with a clean, dynamic layout and smooth interactions. Built with React for optimal performance and Tailwind CSS for utility-first styling, this page is fully responsive across devices. Key features include stunning visuals, product highlights, and call-to-action buttons to drive conversions.',
-    href: 'https://github.com/mrmushii/Nike-website',
+      'Search through thousands of movies from the database. Access a trending movies list, dynamically updated using Appwrite based based on the most searched movies. Watch movie trailer from the app',
+    href: 'https://github.com/mrmushii/React-Movie_Finder',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.svg',
     logoStyle: {
